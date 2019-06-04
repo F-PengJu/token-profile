@@ -1,0 +1,21 @@
+{
+  "symbol": "VVV",
+  "address": "0x7844559a389DA092A74d1419bb6557edb9C492Ba",
+  "overview":{
+        "en": "Token VirtualInvestmentBankI",
+        "zh": ""
+  },
+  "email": "1290052937@qq.com",
+  "website": "https://your-awesome-project.com/",
+  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-06-01",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "https://your-awesome-project.com/blog"
+  }
+}
