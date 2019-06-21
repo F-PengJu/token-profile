@@ -1,0 +1,22 @@
+{
+  "symbol": "VIT",
+  "address": "0x45c0b288f753c990d755fe354ce7407999d16129",
+  "overview":{
+        "en": "Virtual Investment Bank has introduced its own multi-year accumulation of three-dimensional security guarantee mechanism to build a new generation of financial service infrastructure and provide bank-level asset security services to investors. Introduce compliance process and professional services, connect with oneself or third-party investment and financing service providers, and provide users with investment and financing ecological services from chain to chain. It is a combination of mainstream finance and blockchain and a normative attempt of blockchain finance under supervision.",
+        "zh": "Virtual Investment Bank 引入了自身多年积累的立体安全保障机制，打造新一代的金融服务基础设施，提供给投资者银行级的资产安全服务。引入合规流程和专业服务，对接自身或第三方投融资服务商，为用户提供从链上到链下的投融资生态服务。是主流金融与区块链的一次结合，是区块链金融在监管下的规范性尝试。"
+  },
+  "email": "",
+  "website": "http://www.vib.world/",
+  "whitepaper": "http://www.vib.world/",
+  "state": "NORMAL",
+  "published_on": "2019-06-20",
+  "initial_price":{
+        "ETH":"0.00003500 ETH",
+        "USD":"0.01 USD",
+        "BTC":"0.00000105 BTC"
+  },
+  "links": {
+    "blog": "http://www.vib.world/",
+    "facebook": "http://www.vib.world/"
+  }
+}
